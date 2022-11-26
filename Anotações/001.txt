@@ -1,0 +1,42 @@
+LENGTH > Quantas letras tem a string
+ToUpperCase() > Jogar tudo para letras maiusculas
+ToLowerCase() > Jogar tudo para letras minusculas
+Document.write() > Escrever na tela
+${} > Concatenar
+toFixed(N) > Para escolher quantas casas decimais vão ter
+replace('.', ',') > Trocar o ponto por virgula
+n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) > Eu quero localizar para o brasil, dinheiro, para dinheiro: 'BRL' 
+InnerText > Pega texto sem formatação, caso queira foratação use InnerHTML
+
+
+
+OPERADORES ARITMEDICOS
++   > MAIS
+-   > MENOS
+*   > VEZES
+/   > DIVIZÃO
+%   > OPERADOR DE RESTO DA DIVISÃO INTEIRA
+**  > POTÊNCIA
+
+OPERADORES RELACIONAIS
+>	> Maior
+< 	> Menor
+>=	> Maior ou igual
+<=	> Menor ou igual
+==	> Igual
+!=	> Diferente
+
+OPERADORES LÓGICOS
+!	> Negação
+&&	> Conjunção (e)
+||	> Disjunção (ou)
+
+
+
+
+
+
+Selecionar:
+getElementsByTagName() > Selecionar mais de um objeto, ou um objeto especifico usando [NUMERO DO OBJ]
+getElementsByid()
+getElementsByclass()

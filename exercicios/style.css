@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(to left, white, purple);
+    font-size: Arial;
+    background-image: url("img/favicon-32x32.png");
+}
+
+div#box{
+    position: relative;
+    background-color: rgb(102, 43, 43);
+    width: 400px;
+    height: 400px;
+    line-height: 40px;
+    text-align: center;
+    margin: auto;
+    top: 100px;
+    border-radius: 40px;
+    box-shadow: 10px 8px 10px black;
+}
+
+div#inf{
+    padding: 70px;
+}
+
+.input{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+    width: 190px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.inputbtn{
+    border-radius: 7px;
+    padding: 8px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px black;
+}
+
+
+h1{
+    color: white;
+    margin: 0px;
+}
+
+a{
+    color: rgb(166, 166, 166);
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+a:hover{
+    color:aqua;
+}
+
+.inputbtn:hover{
+  background-color: rgb(86, 255, 13);
+  
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 250px;
+    padding: 1px;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+#insta{
+    color: rgb(0, 0, 0);
+}
